@@ -1,5 +1,5 @@
 ## MedGround-R1: Advancing Medical Image Grounding via Spatial-Semantic Rewarded Group Relative Policy Optimization 
-### [`Paper`](https://arxiv.org/abs/2507.02994) | [`BibTeX`](#citing) | MICCAI'25 Best Paper Shortlist
+### [`MICCAI'25 Best Paper Shortlist`](https://arxiv.org/abs/2507.02994) | [`BibTeX`](#citing) 
 
 <p align="center">
   <img src="title.png" alt="MedGround-R1" width="800"/>
