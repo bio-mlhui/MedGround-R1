@@ -1,0 +1,2 @@
+datasets:
+    - json_path: /root/workspace/VLM-R1/root/datasets/MedRPG/data/MS_CXR/train.json

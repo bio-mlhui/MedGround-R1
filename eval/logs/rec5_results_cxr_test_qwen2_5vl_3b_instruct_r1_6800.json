@@ -1,0 +1,2844 @@
+{
+  "accuracy": 59.2814371257485,
+  "results": [
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: small left apical pneumothorax.",
+      "ground_truth": [
+        345.0,
+        70.0,
+        486.0,
+        115.0
+      ],
+      "model_output": "<think>\nThe sentence describes a small left apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [340, 78, 491, 156],\n  \"label\": \"small left apical pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        340,
+        78,
+        491,
+        156
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        235.0,
+        353.0,
+        561.0,
+        535.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [230, 319, 574, 568],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        230,
+        319,
+        574,
+        568
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: mild cardiomegaly.",
+      "ground_truth": [
+        196.0,
+        280.0,
+        535.0,
+        589.0
+      ],
+      "model_output": "<think>\nThe sentence describes mild cardiomegaly.\n</think>\n<answer>\n{\n  \"bbox_2d\": [230, 345, 601, 578],\n  \"label\": \"mild cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        230,
+        345,
+        601,
+        578
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: there is a small left apical pneumothorax.",
+      "ground_truth": [
+        351.0,
+        59.0,
+        510.0,
+        186.0
+      ],
+      "model_output": "<think>\nThe sentence describes a small left apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [340, 75, 491, 168],\n  \"label\": \"there is a small left apical pneumothorax.\"\n}\n</answer>",
+      "extracted_answer": [
+        340,
+        75,
+        491,
+        168
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette enlarged.",
+      "ground_truth": [
+        127.0,
+        333.0,
+        425.0,
+        465.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [150, 304, 496, 578],\n  \"label\": \"cardiac silhouette enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        150,
+        304,
+        496,
+        578
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: tiny right apical pneumothorax.",
+      "ground_truth": [
+        183.0,
+        117.0,
+        300.0,
+        170.0
+      ],
+      "model_output": "<think>\nThe sentence describes a tiny right apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [197, 124, 305, 186],\n  \"label\": \"tiny right apical pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        197,
+        124,
+        305,
+        186
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: right hazy infrahilar ground-glass opacity versus airway wall thickening.",
+      "ground_truth": [
+        182.0,
+        308.0,
+        263.0,
+        373.0
+      ],
+      "model_output": "<think>\nThe sentence describes a right hazy infrahilar ground-glass opacity versus airway wall thickening. \n</think>\n<answer>\n{\n  \"bbox_2d\": [68, 301, 279, 405],\n  \"label\": \"right hazy infrahilar ground-glass opacity\"\n}\n</answer>",
+      "extracted_answer": [
+        68,
+        301,
+        279,
+        405
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: massively enlarged cardiac silhouette.",
+      "ground_truth": [
+        222.0,
+        294.0,
+        569.0,
+        502.0
+      ],
+      "model_output": "<think>\nThe sentence describes a massively enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [234, 250, 571, 568],\n  \"label\": \"massively enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        234,
+        250,
+        571,
+        568
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette enlarged.",
+      "ground_truth": [
+        232.0,
+        345.0,
+        521.0,
+        483.0
+      ],
+      "model_output": "<think>\nThe sentence describes a cardiac silhouette that is enlarged. \n</think>\n<answer>\n{\n  \"bbox_2d\": [190, 304, 567, 488],\n  \"label\": \"cardiac silhouette enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        190,
+        304,
+        567,
+        488
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        180.0,
+        284.0,
+        524.0,
+        469.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [180, 263, 549, 517],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        180,
+        263,
+        549,
+        517
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Left mid-to-lower lung opacities.",
+      "ground_truth": [
+        374.0,
+        202.0,
+        559.0,
+        506.0
+      ],
+      "model_output": "<think>\nThe sentence describes left mid-to-lower lung opacities. \n</think>\n<answer>\n{\n  \"bbox_2d\": [370, 241, 568, 449],\n  \"label\": \"Left mid-to-lower lung opacities\"\n}\n</answer>",
+      "extracted_answer": [
+        370,
+        241,
+        568,
+        449
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Newly appeared lingular opacity.",
+      "ground_truth": [
+        392.0,
+        297.0,
+        533.0,
+        448.0
+      ],
+      "model_output": "<think>\nThe sentence describes a newly appeared lingular opacity. \n</think>\n<answer>\n{\n  \"bbox_2d\": [130, 324, 265, 397],\n  \"label\": \"Newly appeared lingular opacity\"\n}\n</answer>",
+      "extracted_answer": [
+        130,
+        324,
+        265,
+        397
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Left perihilar opacity.",
+      "ground_truth": [
+        400.0,
+        274.0,
+        494.0,
+        414.0
+      ],
+      "model_output": "<think>\nThe sentence describes a left perihilar opacity. \n</think>\n<answer>\n{\n  \"bbox_2d\": [109, 345, 267, 448],\n  \"label\": \"Left perihilar opacity\"\n}\n</answer>",
+      "extracted_answer": [
+        109,
+        345,
+        267,
+        448
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: subtle ground-glass opacities in the right lung.",
+      "ground_truth": [
+        45.0,
+        178.0,
+        317.0,
+        488.0
+      ],
+      "model_output": "<think>\nThe sentence describes subtle ground-glass opacities in the right lung. \n</think>\n<answer>\n{\n  \"bbox_2d\": [63, 190, 287, 485],\n  \"label\": \"subtle ground-glass opacities in the right lung.\"\n}\n</answer>",
+      "extracted_answer": [
+        63,
+        190,
+        287,
+        485
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Left pneumothorax is small.",
+      "ground_truth": [
+        513.0,
+        408.0,
+        567.0,
+        495.0
+      ],
+      "model_output": "<think>\nThe sentence describes a left pneumothorax being small. \n</think>\n<answer>\n{\n  \"bbox_2d\": [384, 150, 567, 398],\n  \"label\": \"Left pneumothorax is small\"\n}\n</answer>",
+      "extracted_answer": [
+        384,
+        150,
+        567,
+        398
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Moderate right pleural effusion is unchanged compared to the prior exam.",
+      "ground_truth": [
+        31.0,
+        318.0,
+        161.0,
+        484.0
+      ],
+      "model_output": "<think>\nThe sentence describes a moderate right pleural effusion that is unchanged compared to the prior exam. \n</think>\n<answer>\n{\n  \"bbox_2d\": [46, 305, 197, 448],\n  \"label\": \"Moderate right pleural effusion\"\n}\n</answer>",
+      "extracted_answer": [
+        46,
+        305,
+        197,
+        448
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: loculated right hydropneumothorax.",
+      "ground_truth": [
+        17.0,
+        279.0,
+        246.0,
+        426.0
+      ],
+      "model_output": "<think>\nThe sentence describes a loculated right hydropneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [103, 105, 287, 394],\n  \"label\": \"loculated right hydropneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        103,
+        105,
+        287,
+        394
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Stable moderate left pleural effusion.",
+      "ground_truth": [
+        416.0,
+        327.0,
+        557.0,
+        525.0
+      ],
+      "model_output": "<think>\nThe sentence describes a stable moderate left pleural effusion. \n</think>\n<answer>\n{\n  \"bbox_2d\": [290, 251, 583, 467],\n  \"label\": \"Stable moderate left pleural effusion\"\n}\n</answer>",
+      "extracted_answer": [
+        290,
+        251,
+        583,
+        467
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        156.0,
+        335.0,
+        499.0,
+        611.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [190, 345, 486, 607],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        190,
+        345,
+        486,
+        607
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: small left-sided apical pneumothorax.",
+      "ground_truth": [
+        385.0,
+        41.0,
+        529.0,
+        76.0
+      ],
+      "model_output": "<think>\nThe sentence describes a small left-sided apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [370, 41, 586, 94],\n  \"label\": \"small left-sided apical pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        370,
+        41,
+        586,
+        94
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: patchy right lower lung zone opacities medialy.",
+      "ground_truth": [
+        185.0,
+        345.0,
+        315.0,
+        527.0
+      ],
+      "model_output": "<think>\nThe sentence describes patchy right lower lung zone opacities medialy. \n</think>\n<answer>\n{\n  \"bbox_2d\": [103, 394, 287, 560],\n  \"label\": \"patchy right lower lung zone opacities medialy\"\n}\n</answer>",
+      "extracted_answer": [
+        103,
+        394,
+        287,
+        560
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Consolidation in the mid left lung continues to expand, worsening pneumonia.",
+      "ground_truth": [
+        325.0,
+        164.0,
+        578.0,
+        336.0
+      ],
+      "model_output": "<think>\nThe sentence describes consolidation in the mid left lung continuing to expand, worsening pneumonia. \n</think>\n<answer>\n{\n  \"bbox_2d\": [340, 175, 569, 418],\n  \"label\": \"Consolidation in the mid left lung continues to expand, worsening pneumonia.\"\n}\n</answer>",
+      "extracted_answer": [
+        340,
+        175,
+        569,
+        418
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: mild cardiomegaly is present.",
+      "ground_truth": [
+        231.0,
+        309.0,
+        529.0,
+        558.0
+      ],
+      "model_output": "<think>\nThe sentence describes mild cardiomegaly. \n</think>\n<answer>\n{\n  \"bbox_2d\": [239, 280, 541, 567],\n  \"label\": \"mild cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        239,
+        280,
+        541,
+        567
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: small loculated left pneumothorax.",
+      "ground_truth": [
+        466.0,
+        217.0,
+        535.0,
+        337.0
+      ],
+      "model_output": "<think>\nThe sentence describes a small loculated left pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [401, 253, 528, 367],\n  \"label\": \"small loculated left pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        401,
+        253,
+        528,
+        367
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Large area of masslike peripheral consolidation.",
+      "ground_truth": [
+        462.0,
+        161.0,
+        586.0,
+        278.0
+      ],
+      "model_output": "<think>\nThe sentence describes a large area of masslike peripheral consolidation. \n</think>\n<answer>\n{\n  \"bbox_2d\": [68, 304, 271, 459],\n  \"label\": \"Large area of masslike peripheral consolidation\"\n}\n</answer>",
+      "extracted_answer": [
+        68,
+        304,
+        271,
+        459
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: probable moderate to large right pleural effusion with superimposed atelectasis.",
+      "ground_truth": [
+        66.0,
+        257.0,
+        274.0,
+        551.0
+      ],
+      "model_output": "<think>\nThe sentence describes a probable moderate to large right pleural effusion with superimposed atelectasis. \n</think>\n<answer>\n{\n  \"bbox_2d\": [119, 304, 305, 468],\n  \"label\": \"probable moderate to large right pleural effusion with superimposed atelectasis\"\n}\n</answer>",
+      "extracted_answer": [
+        119,
+        304,
+        305,
+        468
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is markedly enlarged.",
+      "ground_truth": [
+        116.0,
+        302.0,
+        559.0,
+        559.0
+      ],
+      "model_output": "<think>\nThe sentence describes a cardiac silhouette that is markedly enlarged. \n</think>\n<answer>\n{\n  \"bbox_2d\": [140, 305, 576, 589],\n  \"label\": \"cardiac silhouette is markedly enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        140,
+        305,
+        576,
+        589
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: There is still a moderate right pleural effusion.",
+      "ground_truth": [
+        23.0,
+        312.0,
+        181.0,
+        477.0
+      ],
+      "model_output": "<think>\nThe sentence describes a moderate right pleural effusion. \n</think>\n<answer>\n{\n  \"bbox_2d\": [65, 340, 217, 448],\n  \"label\": \"There is still a moderate right pleural effusion.\"\n}\n</answer>",
+      "extracted_answer": [
+        65,
+        340,
+        217,
+        448
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: inferior left pneumothorax.",
+      "ground_truth": [
+        359.0,
+        337.0,
+        425.0,
+        638.0
+      ],
+      "model_output": "<think>\nThe sentence describes an inferior left pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [439, 460, 581, 637],\n  \"label\": \"inferior left pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        439,
+        460,
+        581,
+        637
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Left-sided pneumothorax.",
+      "ground_truth": [
+        402.0,
+        431.0,
+        598.0,
+        545.0
+      ],
+      "model_output": "<think>\nThe sentence describes a left-sided pneumothorax.\n</think>\n<answer>\n{\n  \"bbox_2d\": [369, 80, 571, 240],\n  \"label\": \"Left-sided pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        369,
+        80,
+        571,
+        240
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        185.0,
+        290.0,
+        511.0,
+        438.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [208, 314, 567, 490],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        208,
+        314,
+        567,
+        490
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: interstitial edema is present in the right lower lung.",
+      "ground_truth": [
+        60.0,
+        360.0,
+        200.0,
+        547.0
+      ],
+      "model_output": "<think>\nThe sentence describes interstitial edema in the right lower lung. \n</think>\n<answer>\n{\n  \"bbox_2d\": [63, 370, 281, 549],\n  \"label\": \"interstitial edema is present in the right lower lung.\"\n}\n</answer>",
+      "extracted_answer": [
+        63,
+        370,
+        281,
+        549
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        243.0,
+        373.0,
+        526.0,
+        558.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\"bbox_2d\": [239, 340, 561, 578], \"label\": \"enlarged cardiac silhouette\"}\n</answer>",
+      "extracted_answer": [
+        239,
+        340,
+        561,
+        578
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: moderate cardiomegaly is present.",
+      "ground_truth": [
+        270.0,
+        323.0,
+        597.0,
+        619.0
+      ],
+      "model_output": "<think>\nThe sentence describes moderate cardiomegaly. \n</think>\n<answer>\n{\n  \"bbox_2d\": [250, 341, 596, 644],\n  \"label\": \"moderate cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        250,
+        341,
+        596,
+        644
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        231.0,
+        316.0,
+        521.0,
+        558.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [230, 294, 561, 578],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        230,
+        294,
+        561,
+        578
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        214.0,
+        190.0,
+        524.0,
+        409.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [219, 203, 546, 428],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        219,
+        203,
+        546,
+        428
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: tiny left apical pneumothorax.",
+      "ground_truth": [
+        319.0,
+        82.0,
+        462.0,
+        117.0
+      ],
+      "model_output": "<think>\nThe sentence describes a tiny left apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [335, 86, 490, 137],\n  \"label\": \"tiny left apical pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        335,
+        86,
+        490,
+        137
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: moderate cardiomegaly is present.",
+      "ground_truth": [
+        235.0,
+        339.0,
+        569.0,
+        523.0
+      ],
+      "model_output": "<think>\nThe sentence describes moderate cardiomegaly. \n</think>\n<answer>\n{\n  \"bbox_2d\": [240, 351, 607, 528],\n  \"label\": \"moderate cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        240,
+        351,
+        607,
+        528
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: patchy consolidation of the lateral left lung.",
+      "ground_truth": [
+        450.0,
+        290.0,
+        523.0,
+        438.0
+      ],
+      "model_output": "<think>\nThe sentence describes a patchy consolidation of the lateral left lung. \n</think>\n<answer>\n{\n  \"bbox_2d\": [370, 314, 560, 528],\n  \"label\": \"patchy consolidation of the lateral left lung\"\n}\n</answer>",
+      "extracted_answer": [
+        370,
+        314,
+        560,
+        528
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: mall medial right pneumothorax.",
+      "ground_truth": [
+        199.0,
+        75.0,
+        280.0,
+        120.0
+      ],
+      "model_output": "<think>\nThe sentence describes a mall medial right pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [107, 83, 269, 204],\n  \"label\": \"mall medial right pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        107,
+        83,
+        269,
+        204
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: moderate right pneumothorax.",
+      "ground_truth": [
+        122.0,
+        94.0,
+        323.0,
+        262.0
+      ],
+      "model_output": "<think>\nThe sentence describes a moderate right pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [135, 80, 346, 247],\n  \"label\": \"moderate right pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        135,
+        80,
+        346,
+        247
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Focal opacity in the right lower lobe.",
+      "ground_truth": [
+        190.0,
+        391.0,
+        298.0,
+        508.0
+      ],
+      "model_output": "<think>\nThe sentence describes a focal opacity in the right lower lobe. \n</think>\n<answer>\n{\n  \"bbox_2d\": [149, 350, 286, 497],\n  \"label\": \"Focal opacity in the right lower lobe\"\n}\n</answer>",
+      "extracted_answer": [
+        149,
+        350,
+        286,
+        497
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: mild cardiomegaly is present.",
+      "ground_truth": [
+        168.0,
+        232.0,
+        501.0,
+        537.0
+      ],
+      "model_output": "<think>\nThe sentence describes mild cardiomegaly. \n</think>\n<answer>\n{\n  \"bbox_2d\": [170, 293, 546, 508],\n  \"label\": \"mild cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        170,
+        293,
+        546,
+        508
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        129.0,
+        178.0,
+        426.0,
+        343.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [140, 139, 456, 378],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        140,
+        139,
+        456,
+        378
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        204.0,
+        312.0,
+        558.0,
+        600.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\"bbox_2d\": [208, 341, 596, 570], \"label\": \"enlarged cardiac silhouette\"}\n</answer>",
+      "extracted_answer": [
+        208,
+        341,
+        596,
+        570
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: abnormal opacity in the basilar right hemithorax is likely atelectasis involving the right lower and middle lobes.",
+      "ground_truth": [
+        70.0,
+        288.0,
+        324.0,
+        424.0
+      ],
+      "model_output": "<think>\nThe sentence describes an abnormal opacity in the basilar right hemithorax that is likely atelectasis involving the right lower and middle lobes. \n</think>\n<answer>\n{\n  \"bbox_2d\": [103, 198, 597, 394],\n  \"label\": \"abnormal opacity in the basilar right hemithorax is likely atelectasis involving the right lower and middle lobes.\"\n}\n</answer>",
+      "extracted_answer": [
+        103,
+        198,
+        597,
+        394
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: mild cardiomegaly.",
+      "ground_truth": [
+        158.0,
+        255.0,
+        517.0,
+        460.0
+      ],
+      "model_output": "<think>\nThe sentence describes mild cardiomegaly.\n</think>\n<answer>\n{\n  \"bbox_2d\": [156, 230, 497, 438],\n  \"label\": \"mild cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        156,
+        230,
+        497,
+        438
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: there is a right basilar atelectasis.",
+      "ground_truth": [
+        113.0,
+        371.0,
+        269.0,
+        476.0
+      ],
+      "model_output": "<think>\nThe sentence describes a right basilar atelectasis.\n</think>\n<answer>\n{\n  \"bbox_2d\": [118, 390, 264, 475],\n  \"label\": \"there is a right basilar atelectasis.\"\n}\n</answer>",
+      "extracted_answer": [
+        118,
+        390,
+        264,
+        475
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: patchy consolidation in the right lower lung.",
+      "ground_truth": [
+        60.0,
+        293.0,
+        206.0,
+        509.0
+      ],
+      "model_output": "<think>\nThe sentence describes a patchy consolidation in the right lower lung. \n</think>\n<answer>\n{\n  \"bbox_2d\": [50, 314, 248, 509],\n  \"label\": \"patchy consolidation in the right lower lung\"\n}\n</answer>",
+      "extracted_answer": [
+        50,
+        314,
+        248,
+        509
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: there is atelectasis of the right upper lobe which may be due to bronchial obstruction and obstructing lesion.",
+      "ground_truth": [
+        107.0,
+        141.0,
+        263.0,
+        284.0
+      ],
+      "model_output": "<think>\nThe sentence describes atelectasis of the right upper lobe. \n</think>\n<answer>\n{\n  \"bbox_2d\": [50, 261, 207, 438],\n  \"label\": \"atelectasis of the right upper lobe\"\n}\n</answer>",
+      "extracted_answer": [
+        50,
+        261,
+        207,
+        438
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: moderate cardiomegaly is present.",
+      "ground_truth": [
+        209.0,
+        332.0,
+        568.0,
+        568.0
+      ],
+      "model_output": "<think>\nThe sentence describes moderate cardiomegaly. \n</think>\n<answer>\n{\n  \"bbox_2d\": [230, 294, 568, 571],\n  \"label\": \"moderate cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        230,
+        294,
+        568,
+        571
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: mild cardiomegaly is present.",
+      "ground_truth": [
+        235.0,
+        318.0,
+        572.0,
+        588.0
+      ],
+      "model_output": "<think>\nThe sentence describes mild cardiomegaly. \n</think>\n<answer>\n{\n  \"bbox_2d\": [284, 301, 596, 547],\n  \"label\": \"mild cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        284,
+        301,
+        596,
+        547
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        195.0,
+        285.0,
+        565.0,
+        554.0
+      ],
+      "model_output": "<think>\nThe sentence describes the cardiac silhouette as being enlarged. \n</think>\n<answer>\n{\n  \"bbox_2d\": [238, 260, 549, 557],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        238,
+        260,
+        549,
+        557
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: the right lung is atelectatic.",
+      "ground_truth": [
+        180.0,
+        314.0,
+        284.0,
+        489.0
+      ],
+      "model_output": "<think>\nThe sentence describes the right lung as atelectatic. \n</think>\n<answer>\n{\n  \"bbox_2d\": [78, 190, 283, 465],\n  \"label\": \"the right lung is atelectatic\"\n}\n</answer>",
+      "extracted_answer": [
+        78,
+        190,
+        283,
+        465
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: The apical component has slightly decreased.",
+      "ground_truth": [
+        330.0,
+        100.0,
+        403.0,
+        157.0
+      ],
+      "model_output": "<think>\nThe sentence describes the apical component as having slightly decreased. \n</think>\n<answer>\n{\n  \"bbox_2d\": [104, 105, 396, 487],\n  \"label\": \"The apical component has slightly decreased.\"\n}\n</answer>",
+      "extracted_answer": [
+        104,
+        105,
+        396,
+        487
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        174.0,
+        304.0,
+        502.0,
+        522.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [190, 285, 496, 537],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        190,
+        285,
+        496,
+        537
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        170.0,
+        305.0,
+        560.0,
+        546.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\"bbox_2d\": [194, 305, 568, 527], \"label\": \"enlarged cardiac silhouette\"}\n</answer>",
+      "extracted_answer": [
+        194,
+        305,
+        568,
+        527
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: left perihilar consolidation versus mass.",
+      "ground_truth": [
+        367.0,
+        247.0,
+        505.0,
+        410.0
+      ],
+      "model_output": "<think>\nThe sentence describes a left perihilar consolidation versus a mass. \n</think>\n<answer>\n{\n  \"bbox_2d\": [350, 218, 546, 497],\n  \"label\": \"left perihilar consolidation versus mass\"\n}\n</answer>",
+      "extracted_answer": [
+        350,
+        218,
+        546,
+        497
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: ground-glass opacity at the left lung base.",
+      "ground_truth": [
+        464.0,
+        387.0,
+        561.0,
+        483.0
+      ],
+      "model_output": "<think>\nThe sentence describes a ground-glass opacity at the left lung base. \n</think>\n<answer>\n{\n  \"bbox_2d\": [450, 396, 571, 580],\n  \"label\": \"ground-glass opacity at the left lung base\"\n}\n</answer>",
+      "extracted_answer": [
+        450,
+        396,
+        571,
+        580
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Small right pneumothorax.",
+      "ground_truth": [
+        121.0,
+        93.0,
+        299.0,
+        182.0
+      ],
+      "model_output": "<think>\nThe sentence describes a small right pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [109, 134, 287, 215],\n  \"label\": \"Small right pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        109,
+        134,
+        287,
+        215
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette enlarged.",
+      "ground_truth": [
+        214.0,
+        275.0,
+        532.0,
+        401.0
+      ],
+      "model_output": "<think>\nThe sentence describes a cardiac silhouette that is enlarged. \n</think>\n<answer>\n{\n  \"bbox_2d\": [198, 230, 564, 417],\n  \"label\": \"cardiac silhouette enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        198,
+        230,
+        564,
+        417
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        263.0,
+        260.0,
+        571.0,
+        422.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [230, 256, 574, 438],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        230,
+        256,
+        574,
+        438
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: right apical pneumothorax.",
+      "ground_truth": [
+        141.0,
+        122.0,
+        302.0,
+        172.0
+      ],
+      "model_output": "<think>\nThe sentence describes a right apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [156, 120, 304, 189],\n  \"label\": \"right apical pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        156,
+        120,
+        304,
+        189
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: mild cardiomegaly.",
+      "ground_truth": [
+        183.0,
+        340.0,
+        492.0,
+        639.0
+      ],
+      "model_output": "<think>\nThe sentence describes mild cardiomegaly.\n</think>\n<answer>\n{\n  \"bbox_2d\": [189, 340, 475, 609],\n  \"label\": \"mild cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        189,
+        340,
+        475,
+        609
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: right middle lobe opacity, suspicious for pneumonia in the proper clinical setting.",
+      "ground_truth": [
+        108.0,
+        405.0,
+        270.0,
+        488.0
+      ],
+      "model_output": "<think>\nThe sentence describes a right middle lobe opacity that is suspicious for pneumonia in the proper clinical setting. \n</think>\n<answer>\n{\n  \"bbox_2d\": [103, 354, 267, 498],\n  \"label\": \"right middle lobe opacity, suspicious for pneumonia\"\n}\n</answer>",
+      "extracted_answer": [
+        103,
+        354,
+        267,
+        498
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: moderate cardiomegaly is present.",
+      "ground_truth": [
+        257.0,
+        288.0,
+        548.0,
+        557.0
+      ],
+      "model_output": "<think>\nThe sentence describes moderate cardiomegaly. \n</think>\n<answer>\n{\n  \"bbox_2d\": [260, 281, 534, 597],\n  \"label\": \"moderate cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        260,
+        281,
+        534,
+        597
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: heart size is enlarged.",
+      "ground_truth": [
+        219.0,
+        320.0,
+        550.0,
+        511.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged heart size. \n</think>\n<answer>\n{\n  \"bbox_2d\": [230, 314, 546, 497],\n  \"label\": \"heart size is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        230,
+        314,
+        546,
+        497
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: trace left apical pneumothorax.",
+      "ground_truth": [
+        390.0,
+        66.0,
+        447.0,
+        94.0
+      ],
+      "model_output": "<think>\nThe sentence describes a trace left apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [108, 53, 294, 136],\n  \"label\": \"trace left apical pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        108,
+        53,
+        294,
+        136
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: patchy ground-glass opacities and possible airway wall thickening in the right lung base.",
+      "ground_truth": [
+        122.0,
+        359.0,
+        198.0,
+        434.0
+      ],
+      "model_output": "<think>\nThe sentence describes patchy ground-glass opacities and possible airway wall thickening in the right lung base. \n</think>\n<answer>\n{\n  \"bbox_2d\": [97, 340, 251, 460],\n  \"label\": \"patchy ground-glass opacities and possible airway wall thickening in the right lung base.\"\n}\n</answer>",
+      "extracted_answer": [
+        97,
+        340,
+        251,
+        460
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: small right pneumothorax.",
+      "ground_truth": [
+        167.0,
+        143.0,
+        333.0,
+        203.0
+      ],
+      "model_output": "<think>\nThe sentence describes a small right pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [130, 145, 306, 237],\n  \"label\": \"small right pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        130,
+        145,
+        306,
+        237
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        172.0,
+        330.0,
+        516.0,
+        497.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [160, 304, 508, 579],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        160,
+        304,
+        508,
+        579
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: The left hemidiaphragm again is poorly seen with retrocardiac opacification.",
+      "ground_truth": [
+        385.0,
+        410.0,
+        576.0,
+        555.0
+      ],
+      "model_output": "<think>\nThe sentence describes the left hemidiaphragm being poorly seen with retrocardiac opacification. \n</think>\n<answer>\n{\n  \"bbox_2d\": [370, 351, 604, 508],\n  \"label\": \"The left hemidiaphragm again is poorly seen with retrocardiac opacification.\"\n}\n</answer>",
+      "extracted_answer": [
+        370,
+        351,
+        604,
+        508
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: more focal opacity in the left lower lobe is concerning for pneumonia.",
+      "ground_truth": [
+        343.0,
+        330.0,
+        524.0,
+        467.0
+      ],
+      "model_output": "<think>\nThe sentence describes a more focal opacity in the left lower lobe being concerning for pneumonia. \n</think>\n<answer>\n{\n  \"bbox_2d\": [370, 341, 546, 480],\n  \"label\": \"more focal opacity in the left lower lobe\"\n}\n</answer>",
+      "extracted_answer": [
+        370,
+        341,
+        546,
+        480
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Small right pleural effusion is stable.",
+      "ground_truth": [
+        5.0,
+        410.0,
+        170.0,
+        493.0
+      ],
+      "model_output": "<think>\nThe sentence describes a small right pleural effusion. \n</think>\n<answer>\n{\n  \"bbox_2d\": [40, 351, 206, 478],\n  \"label\": \"Small right pleural effusion\"\n}\n</answer>",
+      "extracted_answer": [
+        40,
+        351,
+        206,
+        478
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        186.0,
+        297.0,
+        507.0,
+        524.0
+      ],
+      "model_output": "<think>\nThe sentence describes the cardiac silhouette as being enlarged. \n</think>\n<answer>\n{\n  \"bbox_2d\": [198, 270, 496, 503],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        198,
+        270,
+        496,
+        503
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is markedly enlarged.",
+      "ground_truth": [
+        107.0,
+        371.0,
+        541.0,
+        590.0
+      ],
+      "model_output": "<think>\nThe sentence describes a cardiac silhouette that is markedly enlarged. \n</think>\n<answer>\n{\n  \"bbox_2d\": [140, 375, 568, 590],\n  \"label\": \"cardiac silhouette is markedly enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        140,
+        375,
+        568,
+        590
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiomegaly.",
+      "ground_truth": [
+        189.0,
+        317.0,
+        586.0,
+        527.0
+      ],
+      "model_output": "<think>\nThe sentence describes cardiomegaly.\n</think>\n<answer>\n{\n  \"bbox_2d\": [198, 250, 576, 493],\n  \"label\": \"cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        198,
+        250,
+        576,
+        493
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: patchy ground-glass opacity at the left lung base.",
+      "ground_truth": [
+        507.0,
+        373.0,
+        576.0,
+        473.0
+      ],
+      "model_output": "<think>\nThe sentence describes a patchy ground-glass opacity at the left lung base. \n</think>\n<answer>\n{\n  \"bbox_2d\": [401, 395, 608, 570],\n  \"label\": \"patchy ground-glass opacity at the left lung base\"\n}\n</answer>",
+      "extracted_answer": [
+        401,
+        395,
+        608,
+        570
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: marked cardiomegaly is present.",
+      "ground_truth": [
+        225.0,
+        251.0,
+        557.0,
+        534.0
+      ],
+      "model_output": "<think>\nThe sentence describes a marked cardiomegaly. \n</think>\n<answer>\n{\n  \"bbox_2d\": [230, 241, 596, 578],\n  \"label\": \"marked cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        230,
+        241,
+        596,
+        578
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Focal opacity in the lingular lobe.",
+      "ground_truth": [
+        467.0,
+        373.0,
+        598.0,
+        562.0
+      ],
+      "model_output": "<think>\nThe sentence describes a focal opacity in the lingular lobe. \n</think>\n<answer>\n{\n  \"bbox_2d\": [105, 346, 297, 518],\n  \"label\": \"Focal opacity in the lingular lobe\"\n}\n</answer>",
+      "extracted_answer": [
+        105,
+        346,
+        297,
+        518
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiomegaly.",
+      "ground_truth": [
+        201.0,
+        263.0,
+        515.0,
+        415.0
+      ],
+      "model_output": "<think>\nThe sentence describes cardiomegaly.\n</think>\n<answer>\n{\"bbox_2d\": [180, 234, 539, 467], \"label\": \"cardiomegaly\"}\n</answer>",
+      "extracted_answer": [
+        180,
+        234,
+        539,
+        467
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: local consolidation in the left midlung.",
+      "ground_truth": [
+        370.0,
+        259.0,
+        537.0,
+        554.0
+      ],
+      "model_output": "<think>\nThe sentence describes a local consolidation in the left midlung. \n</think>\n<answer>\n{\n  \"bbox_2d\": [350, 314, 486, 479],\n  \"label\": \"local consolidation in the left midlung\"\n}\n</answer>",
+      "extracted_answer": [
+        350,
+        314,
+        486,
+        479
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        135.0,
+        397.0,
+        534.0,
+        530.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [190, 304, 568, 570],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        190,
+        304,
+        568,
+        570
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette enlarged.",
+      "ground_truth": [
+        196.0,
+        312.0,
+        567.0,
+        543.0
+      ],
+      "model_output": "<think>\nThe sentence describes a cardiac silhouette that is enlarged. \n</think>\n<answer>\n{\n  \"bbox_2d\": [209, 287, 563, 541],\n  \"label\": \"cardiac silhouette enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        209,
+        287,
+        563,
+        541
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: patchy bibasilar opacities.",
+      "ground_truth": [
+        377.0,
+        311.0,
+        562.0,
+        477.0
+      ],
+      "model_output": "<think>\nThe sentence describes patchy bibasilar opacities. \n</think>\n<answer>\n{\n  \"bbox_2d\": [403, 315, 536, 478],\n  \"label\": \"patchy bibasilar opacities\"\n}\n</answer>",
+      "extracted_answer": [
+        403,
+        315,
+        536,
+        478
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        230.0,
+        237.0,
+        548.0,
+        459.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [197, 204, 563, 428],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        197,
+        204,
+        563,
+        428
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: apical portion of the pneumothorax.",
+      "ground_truth": [
+        67.0,
+        88.0,
+        275.0,
+        148.0
+      ],
+      "model_output": "<think>\nThe sentence describes the apical portion of the pneumothorax. \n</think>\n<answer>\n{\"bbox_2d\": [103, 105, 249, 186], \"label\": \"apical portion of the pneumothorax\"}\n</answer>",
+      "extracted_answer": [
+        103,
+        105,
+        249,
+        186
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        220.0,
+        270.0,
+        540.0,
+        432.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [197, 280, 534, 460],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        197,
+        280,
+        534,
+        460
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is mildly enlarged.",
+      "ground_truth": [
+        189.0,
+        321.0,
+        546.0,
+        522.0
+      ],
+      "model_output": "<think>\nThe sentence describes a cardiac silhouette that is mildly enlarged. \n</think>\n<answer>\n{\n  \"bbox_2d\": [239, 304, 576, 581],\n  \"label\": \"cardiac silhouette is mildly enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        239,
+        304,
+        576,
+        581
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: small left pneumothorax.",
+      "ground_truth": [
+        379.0,
+        92.0,
+        529.0,
+        202.0
+      ],
+      "model_output": "<think>\nThe sentence describes a small left pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [354, 97, 560, 189],\n  \"label\": \"small left pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        354,
+        97,
+        560,
+        189
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: there is a small left apical pneumothorax.",
+      "ground_truth": [
+        356.0,
+        115.0,
+        533.0,
+        209.0
+      ],
+      "model_output": "<think>\nThe sentence describes a small left apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [347, 120, 568, 190],\n  \"label\": \"there is a small left apical pneumothorax.\"\n}\n</answer>",
+      "extracted_answer": [
+        347,
+        120,
+        568,
+        190
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Basal consolidations could represent atelectasis versus aspiration/pneumonia.",
+      "ground_truth": [
+        133.0,
+        328.0,
+        315.0,
+        419.0
+      ],
+      "model_output": "<think>\nThe sentence describes basal consolidations that could represent atelectasis versus aspiration/pneumonia. \n</think>\n<answer>\n{\n  \"bbox_2d\": [140, 305, 567, 428],\n  \"label\": \"Basal consolidations\"\n}\n</answer>",
+      "extracted_answer": [
+        140,
+        305,
+        567,
+        428
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        184.0,
+        242.0,
+        474.0,
+        459.0
+      ],
+      "model_output": "<think>\nThe sentence describes the cardiac silhouette as being enlarged. \n</think>\n<answer>\n{\n  \"bbox_2d\": [160, 234, 578, 469],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        160,
+        234,
+        578,
+        469
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is mildly enlarged.",
+      "ground_truth": [
+        198.0,
+        308.0,
+        554.0,
+        466.0
+      ],
+      "model_output": "<think>\nThe sentence describes a cardiac silhouette that is mildly enlarged. \n</think>\n<answer>\n{\n  \"bbox_2d\": [197, 284, 536, 490],\n  \"label\": \"cardiac silhouette is mildly enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        197,
+        284,
+        536,
+        490
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        246.0,
+        304.0,
+        534.0,
+        467.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [256, 290, 541, 487],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        256,
+        290,
+        541,
+        487
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Moderate-to-large left pleural effusion.",
+      "ground_truth": [
+        428.0,
+        349.0,
+        639.0,
+        550.0
+      ],
+      "model_output": "<think>\nThe sentence describes a moderate-to-large left pleural effusion. \n</think>\n<answer>\n{\n  \"bbox_2d\": [380, 415, 643, 579],\n  \"label\": \"Moderate-to-large left pleural effusion\"\n}\n</answer>",
+      "extracted_answer": [
+        380,
+        415,
+        643,
+        579
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        214.0,
+        309.0,
+        496.0,
+        502.0
+      ],
+      "model_output": "<think>\nThe sentence describes the cardiac silhouette as being enlarged. \n</think>\n<answer>\n{\n  \"bbox_2d\": [230, 281, 564, 579],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        230,
+        281,
+        564,
+        579
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Right upper lobe airspace opacity.",
+      "ground_truth": [
+        67.0,
+        229.0,
+        178.0,
+        464.0
+      ],
+      "model_output": "<think>\nThe sentence describes a right upper lobe airspace opacity. \n</think>\n<answer>\n{\n  \"bbox_2d\": [40, 198, 235, 496],\n  \"label\": \"Right upper lobe airspace opacity\"\n}\n</answer>",
+      "extracted_answer": [
+        40,
+        198,
+        235,
+        496
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        252.0,
+        315.0,
+        499.0,
+        506.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [250, 341, 508, 567],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        250,
+        341,
+        508,
+        567
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        268.0,
+        377.0,
+        587.0,
+        538.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [301, 345, 608, 579],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        301,
+        345,
+        608,
+        579
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: patchy right nodular mid lung zone opacity.",
+      "ground_truth": [
+        110.0,
+        280.0,
+        185.0,
+        341.0
+      ],
+      "model_output": "<think>\nThe sentence describes a patchy right nodular mid lung zone opacity. \n</think>\n<answer>\n{\n  \"bbox_2d\": [104, 305, 267, 468],\n  \"label\": \"patchy right nodular mid lung zone opacity\"\n}\n</answer>",
+      "extracted_answer": [
+        104,
+        305,
+        267,
+        468
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: marked cardiomegaly is present.",
+      "ground_truth": [
+        247.0,
+        285.0,
+        569.0,
+        571.0
+      ],
+      "model_output": "<think>\nThe sentence describes marked cardiomegaly. \n</think>\n<answer>\n{\n  \"bbox_2d\": [239, 280, 564, 571],\n  \"label\": \"marked cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        239,
+        280,
+        564,
+        571
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Minimal millimetric pneumothorax at the apical aspect of the right chest tube.",
+      "ground_truth": [
+        173.0,
+        90.0,
+        252.0,
+        128.0
+      ],
+      "model_output": "<think>\nThe sentence describes a minimal millimetric pneumothorax at the apical aspect of the right chest tube. \n</think>\n<answer>\n{\n  \"bbox_2d\": [0, 0, 643, 644],\n  \"label\": \"Minimal millimetric pneumothorax at the apical aspect of the right chest tube.\"\n}\n</answer>",
+      "extracted_answer": [
+        0,
+        0,
+        643,
+        644
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: moderate cardiomegaly is present.",
+      "ground_truth": [
+        111.0,
+        211.0,
+        468.0,
+        412.0
+      ],
+      "model_output": "<think>\nThe sentence describes moderate cardiomegaly. \n</think>\n<answer>\n{\n  \"bbox_2d\": [150, 243, 476, 418],\n  \"label\": \"moderate cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        150,
+        243,
+        476,
+        418
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiomegaly is noted.",
+      "ground_truth": [
+        170.0,
+        378.0,
+        490.0,
+        594.0
+      ],
+      "model_output": "<think>\nThe sentence describes a cardiomegaly. \n</think>\n<answer>\n{\n  \"bbox_2d\": [190, 345, 508, 607],\n  \"label\": \"cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        190,
+        345,
+        508,
+        607
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Left perihilar opacity is unchanged.",
+      "ground_truth": [
+        479.0,
+        237.0,
+        547.0,
+        348.0
+      ],
+      "model_output": "<think>\nThe sentence describes a left perihilar opacity that is unchanged. \n</think>\n<answer>\n{\n  \"bbox_2d\": [140, 283, 309, 406],\n  \"label\": \"Left perihilar opacity is unchanged.\"\n}\n</answer>",
+      "extracted_answer": [
+        140,
+        283,
+        309,
+        406
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        193.0,
+        294.0,
+        468.0,
+        444.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [205, 314, 489, 467],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        205,
+        314,
+        489,
+        467
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: heterogeneous right basal opacity.",
+      "ground_truth": [
+        104.0,
+        303.0,
+        306.0,
+        600.0
+      ],
+      "model_output": "<think>\nThe sentence describes a heterogeneous right basal opacity. \n</think>\n<answer>\n{\n  \"bbox_2d\": [117, 394, 286, 490],\n  \"label\": \"heterogeneous right basal opacity\"\n}\n</answer>",
+      "extracted_answer": [
+        117,
+        394,
+        286,
+        490
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        203.0,
+        295.0,
+        504.0,
+        497.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [209, 314, 506, 518],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        209,
+        314,
+        506,
+        518
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: moderate right pneumothorax.",
+      "ground_truth": [
+        126.0,
+        112.0,
+        279.0,
+        211.0
+      ],
+      "model_output": "<think>\nThe sentence describes a moderate right pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [104, 113, 287, 305],\n  \"label\": \"moderate right pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        104,
+        113,
+        287,
+        305
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: mild cardiomegaly.",
+      "ground_truth": [
+        263.0,
+        329.0,
+        589.0,
+        479.0
+      ],
+      "model_output": "<think>\nThe sentence describes mild cardiomegaly.\n</think>\n<answer>\n{\n  \"bbox_2d\": [250, 314, 568, 497],\n  \"label\": \"mild cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        250,
+        314,
+        568,
+        497
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        168.0,
+        315.0,
+        506.0,
+        512.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [179, 240, 503, 506],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        179,
+        240,
+        503,
+        506
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        223.0,
+        337.0,
+        552.0,
+        538.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [219, 304, 576, 580],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        219,
+        304,
+        576,
+        580
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        238.0,
+        300.0,
+        468.0,
+        487.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [230, 297, 481, 560],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        230,
+        297,
+        481,
+        560
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: area of opacification has developed in the right juxta hilar region.",
+      "ground_truth": [
+        133.0,
+        211.0,
+        293.0,
+        334.0
+      ],
+      "model_output": "<think>\nThe sentence describes an area of opacification in the right juxta hilar region. \n</think>\n<answer>\n{\n  \"bbox_2d\": [114, 230, 289, 356],\n  \"label\": \"area of opacification has developed in the right juxta hilar region.\"\n}\n</answer>",
+      "extracted_answer": [
+        114,
+        230,
+        289,
+        356
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Small right-sided pleural effusion is also stable.",
+      "ground_truth": [
+        76.0,
+        372.0,
+        212.0,
+        455.0
+      ],
+      "model_output": "<think>\nThe sentence describes a small right-sided pleural effusion. \n</think>\n<answer>\n{\n  \"bbox_2d\": [109, 403, 265, 537],\n  \"label\": \"Small right-sided pleural effusion\"\n}\n</answer>",
+      "extracted_answer": [
+        109,
+        403,
+        265,
+        537
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: right apical pneumothorax.",
+      "ground_truth": [
+        112.0,
+        117.0,
+        244.0,
+        180.0
+      ],
+      "model_output": "<think>\nThe sentence describes a right apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [103, 108, 274, 195],\n  \"label\": \"right apical pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        103,
+        108,
+        274,
+        195
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: right basilar lucency likely represents pneumothorax which may be loculated.",
+      "ground_truth": [
+        35.0,
+        209.0,
+        239.0,
+        364.0
+      ],
+      "model_output": "<think>\nThe sentence describes a right basilar lucency likely representing pneumothorax which may be loculated. \n</think>\n<answer>\n{\n  \"bbox_2d\": [103, 245, 644, 397],\n  \"label\": \"right basilar lucency likely representing pneumothorax which may be loculated.\"\n}\n</answer>",
+      "extracted_answer": [
+        103,
+        245,
+        644,
+        397
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        205.0,
+        246.0,
+        508.0,
+        467.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [197, 280, 534, 462],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        197,
+        280,
+        534,
+        462
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: basal component of the known left pneumothorax.",
+      "ground_truth": [
+        352.0,
+        363.0,
+        501.0,
+        504.0
+      ],
+      "model_output": "<think>\nThe sentence describes the basal component of the known left pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [350, 371, 486, 519],\n  \"label\": \"basal component of the known left pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        350,
+        371,
+        486,
+        519
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: there is likely right basilar atelectasis.",
+      "ground_truth": [
+        190.0,
+        400.0,
+        310.0,
+        504.0
+      ],
+      "model_output": "<think>\nThe sentence describes a right basilar atelectasis.\n</think>\n<answer>\n{\n  \"bbox_2d\": [149, 350, 328, 516],\n  \"label\": \"there is likely right basilar atelectasis\"\n}\n</answer>",
+      "extracted_answer": [
+        149,
+        350,
+        328,
+        516
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: patchy consolidation in the right lung.",
+      "ground_truth": [
+        46.0,
+        196.0,
+        215.0,
+        350.0
+      ],
+      "model_output": "<think>\nThe sentence describes a patchy consolidation in the right lung. \n</think>\n<answer>\n{\n  \"bbox_2d\": [0, 143, 275, 468],\n  \"label\": \"patchy consolidation in the right lung\"\n}\n</answer>",
+      "extracted_answer": [
+        0,
+        143,
+        275,
+        468
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        231.0,
+        327.0,
+        578.0,
+        639.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [240, 319, 586, 637],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        240,
+        319,
+        586,
+        637
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Faint patchy opacity at the right lung base could reflect atelectasis, pneumonia, or aspiration.",
+      "ground_truth": [
+        81.0,
+        364.0,
+        321.0,
+        474.0
+      ],
+      "model_output": "<think>\nThe sentence describes a faint patchy opacity at the right lung base that could reflect atelectasis, pneumonia, or aspiration. \n</think>\n<answer>\n{\n  \"bbox_2d\": [108, 345, 267, 439],\n  \"label\": \"Faint patchy opacity at the right lung base\"\n}\n</answer>",
+      "extracted_answer": [
+        108,
+        345,
+        267,
+        439
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        204.0,
+        266.0,
+        586.0,
+        589.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [237, 250, 568, 549],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        237,
+        250,
+        568,
+        549
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: right pneumothorax is slightly larger laterally.",
+      "ground_truth": [
+        17.0,
+        118.0,
+        124.0,
+        442.0
+      ],
+      "model_output": "<think>\nThe sentence describes a right pneumothorax being slightly larger laterally. \n</think>\n<answer>\n{\n  \"bbox_2d\": [40, 139, 256, 418],\n  \"label\": \"right pneumothorax is slightly larger laterally\"\n}\n</answer>",
+      "extracted_answer": [
+        40,
+        139,
+        256,
+        418
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        225.0,
+        343.0,
+        612.0,
+        526.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [240, 305, 596, 518],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        240,
+        305,
+        596,
+        518
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        261.0,
+        280.0,
+        545.0,
+        428.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [219, 230, 568, 470],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        219,
+        230,
+        568,
+        470
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: mild cardiomegaly.",
+      "ground_truth": [
+        212.0,
+        347.0,
+        561.0,
+        589.0
+      ],
+      "model_output": "<think>\nThe sentence describes mild cardiomegaly.\n</think>\n<answer>\n{\n  \"bbox_2d\": [230, 291, 546, 587],\n  \"label\": \"mild cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        230,
+        291,
+        546,
+        587
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: right apical pneumothorax.",
+      "ground_truth": [
+        172.0,
+        60.0,
+        321.0,
+        153.0
+      ],
+      "model_output": "<think>\nThe sentence describes a right apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [130, 108, 309, 247],\n  \"label\": \"right apical pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        130,
+        108,
+        309,
+        247
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        260.0,
+        308.0,
+        585.0,
+        557.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [258, 290, 573, 561],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        258,
+        290,
+        573,
+        561
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: There is again seen an area of consolidation within the right upper lobe which appears more confluent.",
+      "ground_truth": [
+        177.0,
+        116.0,
+        248.0,
+        299.0
+      ],
+      "model_output": "<think>\nThe sentence describes an area of consolidation within the right upper lobe that appears more confluent. \n</think>\n<answer>\n{\n  \"bbox_2d\": [107, 159, 263, 489],\n  \"label\": \"area of consolidation within the right upper lobe which appears more confluent\"\n}\n</answer>",
+      "extracted_answer": [
+        107,
+        159,
+        263,
+        489
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Pleural fluid collection at the right lung base, possibly loculated.",
+      "ground_truth": [
+        82.0,
+        296.0,
+        254.0,
+        481.0
+      ],
+      "model_output": "<think>\nThe sentence describes a pleural fluid collection at the right lung base, possibly loculated. \n</think>\n<answer>\n{\n  \"bbox_2d\": [107, 324, 285, 469],\n  \"label\": \"Pleural fluid collection at the right lung base, possibly loculated.\"\n}\n</answer>",
+      "extracted_answer": [
+        107,
+        324,
+        285,
+        469
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        243.0,
+        315.0,
+        583.0,
+        448.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\"bbox_2d\": [239, 304, 586, 517], \"label\": \"enlarged cardiac silhouette\"}\n</answer>",
+      "extracted_answer": [
+        239,
+        304,
+        586,
+        517
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Small left pleural effusion is unchanged.",
+      "ground_truth": [
+        458.0,
+        487.0,
+        568.0,
+        563.0
+      ],
+      "model_output": "<think>\nThe sentence describes a small left pleural effusion that is unchanged. \n</think>\n<answer>\n{\n  \"bbox_2d\": [375, 486, 590, 631],\n  \"label\": \"Small left pleural effusion is unchanged.\"\n}\n</answer>",
+      "extracted_answer": [
+        375,
+        486,
+        590,
+        631
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: decrease in small to moderate left pneumothorax.",
+      "ground_truth": [
+        411.0,
+        449.0,
+        620.0,
+        582.0
+      ],
+      "model_output": "<think>\nThe sentence describes a decrease in small to moderate left pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [340, 185, 546, 379],\n  \"label\": \"decrease in small to moderate left pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        340,
+        185,
+        546,
+        379
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        207.0,
+        311.0,
+        582.0,
+        505.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [209, 284, 561, 537],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        209,
+        284,
+        561,
+        537
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        236.0,
+        240.0,
+        595.0,
+        440.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [219, 203, 564, 428],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        219,
+        203,
+        564,
+        428
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Left retrocardiac consolidation is unchanged.",
+      "ground_truth": [
+        384.0,
+        495.0,
+        534.0,
+        603.0
+      ],
+      "model_output": "<think>\nThe sentence describes a left retrocardiac consolidation that is unchanged. \n</think>\n<answer>\n{\n  \"bbox_2d\": [419, 385, 586, 607],\n  \"label\": \"Left retrocardiac consolidation is unchanged.\"\n}\n</answer>",
+      "extracted_answer": [
+        419,
+        385,
+        586,
+        607
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: left pneumothorax.",
+      "ground_truth": [
+        349.0,
+        76.0,
+        496.0,
+        147.0
+      ],
+      "model_output": "<think>\nThe sentence describes a left pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [357, 80, 546, 198],\n  \"label\": \"left pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        357,
+        80,
+        546,
+        198
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Small right apical pneumothorax.",
+      "ground_truth": [
+        89.0,
+        17.0,
+        207.0,
+        87.0
+      ],
+      "model_output": "<think>\nThe sentence describes a small right apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [103, 24, 215, 128],\n  \"label\": \"Small right apical pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        103,
+        24,
+        215,
+        128
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette is enlarged.",
+      "ground_truth": [
+        183.0,
+        278.0,
+        549.0,
+        481.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette. \n</think>\n<answer>\n{\n  \"bbox_2d\": [197, 260, 538, 460],\n  \"label\": \"cardiac silhouette is enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        197,
+        260,
+        538,
+        460
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        250.0,
+        325.0,
+        560.0,
+        558.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\n  \"bbox_2d\": [259, 360, 578, 541],\n  \"label\": \"enlarged cardiac silhouette\"\n}\n</answer>",
+      "extracted_answer": [
+        259,
+        360,
+        578,
+        541
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: patchy consolidation of the right lung base.",
+      "ground_truth": [
+        122.0,
+        322.0,
+        206.0,
+        444.0
+      ],
+      "model_output": "<think>\nThe sentence describes a patchy consolidation of the right lung base. \n</think>\n<answer>\n{\n  \"bbox_2d\": [120, 345, 237, 469],\n  \"label\": \"patchy consolidation of the right lung base\"\n}\n</answer>",
+      "extracted_answer": [
+        120,
+        345,
+        237,
+        469
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: enlarged cardiac silhouette.",
+      "ground_truth": [
+        241.0,
+        392.0,
+        524.0,
+        538.0
+      ],
+      "model_output": "<think>\nThe sentence describes an enlarged cardiac silhouette.\n</think>\n<answer>\n{\"bbox_2d\": [240, 375, 536, 581], \"label\": \"enlarged cardiac silhouette\"}\n</answer>",
+      "extracted_answer": [
+        240,
+        375,
+        536,
+        581
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: A minimal right pleural effusion is seen on today's radiograph.",
+      "ground_truth": [
+        120.0,
+        323.0,
+        321.0,
+        413.0
+      ],
+      "model_output": "<think>\nThe sentence describes a minimal right pleural effusion. \n</think>\n<answer>\n{\n  \"bbox_2d\": [130, 354, 267, 489],\n  \"label\": \"A minimal right pleural effusion\"\n}\n</answer>",
+      "extracted_answer": [
+        130,
+        354,
+        267,
+        489
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: left basilar pneumothorax.",
+      "ground_truth": [
+        479.0,
+        435.0,
+        537.0,
+        521.0
+      ],
+      "model_output": "<think>\nThe sentence describes a left basilar pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [370, 341, 536, 518],\n  \"label\": \"left basilar pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        370,
+        341,
+        536,
+        518
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: patchy ground-glass opacity in the right lung base.",
+      "ground_truth": [
+        112.0,
+        387.0,
+        199.0,
+        455.0
+      ],
+      "model_output": "<think>\nThe sentence describes a patchy ground-glass opacity in the right lung base. \n</think>\n<answer>\n{\n  \"bbox_2d\": [45, 360, 189, 478],\n  \"label\": \"patchy ground-glass opacity in the right lung base\"\n}\n</answer>",
+      "extracted_answer": [
+        45,
+        360,
+        189,
+        478
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Small right pleural effusion is stable.",
+      "ground_truth": [
+        53.0,
+        425.0,
+        211.0,
+        537.0
+      ],
+      "model_output": "<think>\nThe sentence describes a small right pleural effusion. \n</think>\n<answer>\n{\n  \"bbox_2d\": [73, 405, 246, 481],\n  \"label\": \"Small right pleural effusion\"\n}\n</answer>",
+      "extracted_answer": [
+        73,
+        405,
+        246,
+        481
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiac silhouette mildly enlarged.",
+      "ground_truth": [
+        252.0,
+        324.0,
+        572.0,
+        491.0
+      ],
+      "model_output": "<think>\nThe sentence describes a cardiac silhouette that is mildly enlarged. \n</think>\n<answer>\n{\n  \"bbox_2d\": [260, 291, 573, 548],\n  \"label\": \"cardiac silhouette mildly enlarged\"\n}\n</answer>",
+      "extracted_answer": [
+        260,
+        291,
+        573,
+        548
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: ground-glass and consolidative opacities in the right lower lung.",
+      "ground_truth": [
+        37.0,
+        332.0,
+        154.0,
+        485.0
+      ],
+      "model_output": "<think>\nThe sentence describes ground-glass and consolidative opacities in the right lower lung. \n</think>\n<answer>\n{\n  \"bbox_2d\": [19, 304, 228, 526],\n  \"label\": \"ground-glass and consolidative opacities in the right lower lung\"\n}\n</answer>",
+      "extracted_answer": [
+        19,
+        304,
+        228,
+        526
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: opacities, consistent with consolidation, are present in the left lower lung.",
+      "ground_truth": [
+        437.0,
+        297.0,
+        610.0,
+        457.0
+      ],
+      "model_output": "<think>\nThe sentence describes opacities consistent with consolidation in the left lower lung. \n</think>\n<answer>\n{\n  \"bbox_2d\": [410, 356, 601, 547],\n  \"label\": \"opacities, consistent with consolidation, are present in the left lower lung.\"\n}\n</answer>",
+      "extracted_answer": [
+        410,
+        356,
+        601,
+        547
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: right apical pneumothorax.",
+      "ground_truth": [
+        100.0,
+        43.0,
+        273.0,
+        128.0
+      ],
+      "model_output": "<think>\nThe sentence describes a right apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [103, 54, 276, 139],\n  \"label\": \"right apical pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        103,
+        54,
+        276,
+        139
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: small apical pneumothorax.",
+      "ground_truth": [
+        161.0,
+        134.0,
+        272.0,
+        171.0
+      ],
+      "model_output": "<think>\nThe sentence describes a small apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [140, 139, 287, 195],\n  \"label\": \"small apical pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        140,
+        139,
+        287,
+        195
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Small left apical pneumothorax.",
+      "ground_truth": [
+        346.0,
+        55.0,
+        468.0,
+        110.0
+      ],
+      "model_output": "<think>\nThe sentence describes a small left apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [350, 64, 518, 179],\n  \"label\": \"Small left apical pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        350,
+        64,
+        518,
+        179
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: cardiomegaly noted.",
+      "ground_truth": [
+        212.0,
+        305.0,
+        556.0,
+        584.0
+      ],
+      "model_output": "<think>\nThe sentence describes a cardiomegaly noted. \n</think>\n<answer>\n{\n  \"bbox_2d\": [190, 283, 546, 570],\n  \"label\": \"cardiomegaly noted\"\n}\n</answer>",
+      "extracted_answer": [
+        190,
+        283,
+        546,
+        570
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: Extensive consolidation of the right lung is unchanged.",
+      "ground_truth": [
+        114.0,
+        198.0,
+        266.0,
+        443.0
+      ],
+      "model_output": "<think>\nThe sentence describes extensive consolidation of the right lung. \n</think>\n<answer>\n{\n  \"bbox_2d\": [108, 173, 309, 456],\n  \"label\": \"Extensive consolidation of the right lung\"\n}\n</answer>",
+      "extracted_answer": [
+        108,
+        173,
+        309,
+        456
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: minimal right apical pneumothorax.",
+      "ground_truth": [
+        134.0,
+        54.0,
+        308.0,
+        136.0
+      ],
+      "model_output": "<think>\nThe sentence describes a minimal right apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [105, 63, 297, 148],\n  \"label\": \"minimal right apical pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        105,
+        63,
+        297,
+        148
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: large cardiac silhouette.",
+      "ground_truth": [
+        214.0,
+        251.0,
+        521.0,
+        434.0
+      ],
+      "model_output": "<think>\nThe sentence describes a large cardiac silhouette.\n</think>\n<answer>\n{\"bbox_2d\": [230, 241, 567, 489], \"label\": \"large cardiac silhouette\"}\n</answer>",
+      "extracted_answer": [
+        230,
+        241,
+        567,
+        489
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: New small right apical pneumothorax.",
+      "ground_truth": [
+        67.0,
+        60.0,
+        264.0,
+        248.0
+      ],
+      "model_output": "<think>\nThe sentence describes a new small right apical pneumothorax. \n</think>\n<answer>\n{\n  \"bbox_2d\": [104, 105, 267, 309],\n  \"label\": \"New small right apical pneumothorax\"\n}\n</answer>",
+      "extracted_answer": [
+        104,
+        105,
+        267,
+        309
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: right upper lobe pneumonia.",
+      "ground_truth": [
+        132.0,
+        87.0,
+        333.0,
+        244.0
+      ],
+      "model_output": "<think>\nThe sentence describes right upper lobe pneumonia. \n</think>\n<answer>\n{\n  \"bbox_2d\": [109, 104, 308, 315],\n  \"label\": \"right upper lobe pneumonia\"\n}\n</answer>",
+      "extracted_answer": [
+        109,
+        104,
+        308,
+        315
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: multisegmental opacity in the left lower lung is consistent with consolidation.",
+      "ground_truth": [
+        386.0,
+        284.0,
+        563.0,
+        445.0
+      ],
+      "model_output": "<think>\nThe sentence describes a multisegmental opacity in the left lower lung that is consistent with consolidation. \n</think>\n<answer>\n{\n  \"bbox_2d\": [350, 284, 561, 447],\n  \"label\": \"multisegmental opacity in the left lower lung is consistent with consolidation.\"\n}\n</answer>",
+      "extracted_answer": [
+        350,
+        284,
+        561,
+        447
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: multisegmental right upper lobe consolidation is present.",
+      "ground_truth": [
+        9.0,
+        86.0,
+        241.0,
+        364.0
+      ],
+      "model_output": "<think>\nThe sentence describes a multisegmental right upper lobe consolidation. \n</think>\n<answer>\n{\n  \"bbox_2d\": [24, 103, 239, 315],\n  \"label\": \"multisegmental right upper lobe consolidation\"\n}\n</answer>",
+      "extracted_answer": [
+        24,
+        103,
+        239,
+        315
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: there is mild cardiomegaly.",
+      "ground_truth": [
+        195.0,
+        281.0,
+        533.0,
+        479.0
+      ],
+      "model_output": "<think>\nThe sentence describes mild cardiomegaly.\n</think>\n<answer>\n{\n  \"bbox_2d\": [204, 281, 536, 497],\n  \"label\": \"there is mild cardiomegaly\"\n}\n</answer>",
+      "extracted_answer": [
+        204,
+        281,
+        536,
+        497
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: right middle and lower lobe opacities compatible with resolving pneumonia.",
+      "ground_truth": [
+        131.0,
+        293.0,
+        274.0,
+        538.0
+      ],
+      "model_output": "<think>\nThe sentence describes right middle and lower lobe opacities compatible with resolving pneumonia. \n</think>\n<answer>\n{\n  \"bbox_2d\": [109, 374, 285, 560],\n  \"label\": \"right middle and lower lobe opacities compatible with resolving pneumonia\"\n}\n</answer>",
+      "extracted_answer": [
+        109,
+        374,
+        285,
+        560
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: left lower lobe opacity.",
+      "ground_truth": [
+        375.0,
+        262.0,
+        577.0,
+        341.0
+      ],
+      "model_output": "<think>\nThe sentence describes a left lower lobe opacity.\n</think>\n<answer>\n{\n  \"bbox_2d\": [370, 261, 589, 374],\n  \"label\": \"left lower lobe opacity\"\n}\n</answer>",
+      "extracted_answer": [
+        370,
+        261,
+        589,
+        374
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Please provide the bounding box coordinate of the region this sentence describes: The minimal left pleural effusion persists.",
+      "ground_truth": [
+        415.0,
+        413.0,
+        597.0,
+        526.0
+      ],
+      "model_output": "<think>\nThe sentence describes a minimal left pleural effusion. \n</think>\n<answer>\n{\n  \"bbox_2d\": [394, 318, 570, 462],\n  \"label\": \"The minimal left pleural effusion persists.\"\n}\n</answer>",
+      "extracted_answer": [
+        394,
+        318,
+        570,
+        462
+      ],
+      "correct": 0
+    }
+  ]
+}
