@@ -16,9 +16,7 @@ This is the official implmentation of MedGround-R1, which incorporates **[GRPO](
 - [x] 05/10 miccai'25 early accept 
 
 ## Announcement
-The author is both lazy and busy now 😴😴, moreover, the cluster transfer causes some troubles.
-
-The author is committed to fully open-access and transparency ([LGRNet 😎](https://github.com/bio-mlhui/LGRNet)), and **assures** that all checkpoints will be uploaded before 10/08 holiday. 
+The author is committed to fully open-access and transparency, all checkpoints will be uploaded before 10/08 holiday. 
 
 ## Items
 1. Installation for VLM-R1: Our repo is based on VLM-R1, please refer to [vlm-r1](https://github.com/om-ai-lab/VLM-R1) for installation guidance.
