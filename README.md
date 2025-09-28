@@ -56,4 +56,3 @@ python eval/test_rec_r1_med_qwen25.py
 ## Acknowledgments
 - Thanks [VLM-R1](https://github.com/om-ai-lab/VLM-R1) for the grpo implementation.
 - Thanks [MedCLIP](https://github.com/RyanWangZf/MedCLIP) for the medclip implementation.
-- Thanks HIT ME [HARD](https://www.youtube.com/watch?v=g6YSdMnCOCU) AND [SOFT](https://www.youtube.com/watch?v=d5gf9dXbPi0) for the power implementation.
